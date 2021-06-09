@@ -1,0 +1,31 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.contactInput{
+    margin-top: 10px;
+    width:100%;
+    padding:5px
+}
+.contactMessage{
+    margin-top: 12px;
+    height:130px
+}
+.subBtn{
+    margin-top: 10px;
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none;
+    outline:none
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}

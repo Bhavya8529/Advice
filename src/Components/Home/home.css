@@ -1,0 +1,91 @@
+
+.img1{
+    height: 300px;
+    width:100% ;
+   
+}
+.contain{
+    margin-top: 30px;
+}
+
+.text1{
+   margin: 30px;
+}
+.btn1{
+    margin-left:30px;
+    margin-right: 30px;
+
+}
+.part2{
+    margin: 30px;
+}
+.headings{
+    margin: 0 auto;
+    font-size: large;
+    font-weight: bold;
+   
+}
+.sm{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img2{
+    width:200px;
+    height:200px;
+}
+.img3{
+    width:200px;
+    height:300px;
+}
+.margin{
+    margin-top: 30px;
+}
+.img4{
+    width: 320px;
+    height: 260px;
+}
+.services{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.title{
+    text-align: center;
+}
+.subscribe{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.text2{
+    text-align: center;
+}
+.subscribeBox{
+    margin:0 auto;
+    margin-top: 10px;
+}
+.subscribeButton{
+    margin: 0 auto;
+    margin-top: 10px;
+    width:20vh;
+    background-color: blue;
+    outline: none;
+    border:none;
+    height:40px
+}
+.color{
+    background-color: blanchedalmond;
+    padding: 10px;
+    padding-bottom: 30px;
+}
+.myInput{
+   width:50vh;
+   height:40px;
+   border-radius: 50px;
+   text-align: center;
+   border: none;
+   outline: none;
+}

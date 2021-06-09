@@ -1,0 +1,28 @@
+.heading{
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.img{
+    height: 200px;
+    width: 150px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  
+}
+.text{
+    margin-top: 20px;
+}
+.card1{
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-top: 50px;
+}
+.card1:hover{
+    box-shadow: 4px 4px 4px 4px #888888;
+    background-color:bisque;
+}

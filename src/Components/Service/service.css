@@ -1,0 +1,13 @@
+.title{
+    margin-top: 8px;
+    font-size: 17px;
+}
+
+.sm1{
+    transition: 0.6s;
+}
+.sm1:hover{
+    box-shadow: 4px 4px 4px 4px #888888;
+    transform: scale(1.05);
+    cursor: pointer;
+}
